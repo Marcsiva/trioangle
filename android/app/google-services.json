@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "256827687821",
+    "project_id": "trioangle-a3d9c",
+    "storage_bucket": "trioangle-a3d9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256827687821:android:a80fef5f64f6110c7333c4",
+        "android_client_info": {
+          "package_name": "com.example.trioangle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC92UOa8_58kQX1K4UfCL8r7cM7I19WpAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
